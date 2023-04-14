@@ -156,7 +156,7 @@ onMounted(() => {
 
   // 版权声明
   const logoText = "SPlayer";
-  const copyrightNotice = `\n\n版本: ${packageJson.version}\n作者: ${packageJson.author}\n作者主页: ${packageJson.home}\nGitHub: ${packageJson.github}`;
+  const copyrightNotice = `\n\n版本: ${packageJson.version}\n\n主页: "https://www.shenyanwu.top"\n\nGitHub: "https://github.com/Shenyan-Wu"`;
   console.info(
     `%c${logoText} %c ${copyrightNotice}`,
     "color:#f55e55;font-size:26px;font-weight:bold;",
