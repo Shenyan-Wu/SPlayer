@@ -2,9 +2,9 @@
   "name": "splayer",
   "version": "1.1.0",
   "private": true,
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "author": "ShenyanWu",
+  "home": "https://www.shenyanwu.top",
+  "github": "https://github.com/Shenyan-Wu",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
